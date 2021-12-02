@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&family=Outfit:wght@400;700&display=swap");
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+  background: black;
+  color: white;
+  font-family: "Outfit";
+  min-width: 100vw;
+  min-height: 100vh;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media screen and (max-width: 768px) {
+  #mainNavigation nav {
+    font-size: 6vw !important;
+  }
+}
+
+.activeLink {
+  color: red;
+}
