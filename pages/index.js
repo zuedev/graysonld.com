@@ -42,7 +42,7 @@ export default function Home() {
           }}
           poster="/photonacut-poster1.png"
         >
-          <source src="/photonacut.mp4"></source>
+          <source src="/photonacut.mp4" type="video/mp4" />
         </video>
       </div>
 
