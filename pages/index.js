@@ -28,7 +28,7 @@ export default function Home() {
       >
         <video
           autoPlay
-          playsinline
+          playsInline
           muted
           loop
           style={{
