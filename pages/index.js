@@ -40,7 +40,7 @@ export default function Home() {
             objectFit: "cover",
           }}
         >
-          <source src="/photonacut.mp4"></source>
+          <source src="/photonacut.mp4" type="video/mp4" />
         </video>
       </div>
 
