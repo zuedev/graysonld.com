@@ -28,6 +28,7 @@ export default function Home() {
       >
         <video
           autoPlay
+          playsinline
           muted
           loop
           style={{
@@ -39,6 +40,7 @@ export default function Home() {
             pointerEvents: "none",
             objectFit: "cover",
           }}
+          poster="/photonacut-poster1.png"
         >
           <source src="/photonacut.mp4"></source>
         </video>
