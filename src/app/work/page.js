@@ -15,10 +15,10 @@ export default () => {
             title: "Game Dev",
             image: "/work_gamedev.jpg",
           },
-          {
-            title: "IDK",
-            image: "https://place-hold.it/500",
-          },
+          // {
+          //   title: "IDK",
+          //   image: "https://place-hold.it/500",
+          // },
           {
             title: "Photography",
             image: "/work_photography.jpg",
