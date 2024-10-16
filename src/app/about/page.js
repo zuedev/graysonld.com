@@ -25,6 +25,14 @@ export default () => {
           of any performance.
         </p>
         <p>
+          Due to the Covid-19 pandemic, I have explored opportunities outside of
+          Lighting. These projects include Management for an Esports
+          organisation, and early stages of game development. Each in their own
+          right utilize skills mirroring those used in live entertainment. Now
+          that the pandemic has mostly subsided, I aspire to reignite the
+          imagination of audiences in a live setting.
+        </p>
+        <p>
           I hold a Bachelors of Fine Arts for Lighting Design from the
           University of North Carolina School of the Arts.
         </p>
