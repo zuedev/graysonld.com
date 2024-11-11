@@ -16,4 +16,4 @@ deploy_to_cloudflare_pages:
     - npx wrangler pages deploy ./out --project-name $CLOUDFLARE_PROJECT_NAME --branch $CI_COMMIT_REF_NAME
 
 include:
-  - template: ./sonarqube.gitlab-ci.yml
+  - ./sonarqube.gitlab-ci.yml
